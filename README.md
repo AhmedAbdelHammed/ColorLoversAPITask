@@ -1,8 +1,8 @@
-# Sauce Demo BM Automation Task  
+# Color Lovers API VOIS Task  
 
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
 
-This task is for automating some Sauce Demo Website scenarios
+This task is for automating Color Lovers API
 
 ### Technologies Used:
 
@@ -15,7 +15,7 @@ This task is for automating some Sauce Demo Website scenarios
 ### Environment Setup - Prerequisites to run the automation test:
 
 - Java installed on the machine
-- Maven installed on the machine
+- Maven installed on the machine  
 Guide to install Maven: https://maven.apache.org/install.html
 
 ### Steps to run the automation test:
